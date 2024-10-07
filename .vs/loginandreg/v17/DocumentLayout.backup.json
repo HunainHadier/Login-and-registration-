@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hunai\\source\\repos\\loginandreg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\migrations\\20241006163116_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\migrations\\20241006163116_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|c:\\users\\hunai\\source\\repos\\loginandreg\\loginandreg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67D3E8A4-D02A-42F5-8E1C-AD2E281FC39A}|loginandreg\\loginandreg.csproj|solutionrelative:loginandreg\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "loginandreg\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "loginandreg\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:26:39.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "loginandreg\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "loginandreg\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:25:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "loginandreg\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "loginandreg\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:25:40.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "loginandreg\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "loginandreg\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:20:54.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "loginandreg\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "loginandreg\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:15:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "loginandreg\\Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "loginandreg\\Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:06:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "loginandreg\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Services\\EmailSender.cs",
+              "RelativeToolTip": "loginandreg\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:17:50.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Program.cs",
+              "RelativeDocumentMoniker": "loginandreg\\Program.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Program.cs",
+              "RelativeToolTip": "loginandreg\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:47:10.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "loginandreg\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "loginandreg\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T16:42:47.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241006163116_Testing.cs",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Migrations\\20241006163116_Testing.cs",
+              "RelativeDocumentMoniker": "loginandreg\\Migrations\\20241006163116_Testing.cs",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\Migrations\\20241006163116_Testing.cs",
+              "RelativeToolTip": "loginandreg\\Migrations\\20241006163116_Testing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:31:16.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\appsettings.json",
+              "RelativeDocumentMoniker": "loginandreg\\appsettings.json",
+              "ToolTip": "C:\\Users\\hunai\\source\\repos\\loginandreg\\loginandreg\\appsettings.json",
+              "RelativeToolTip": "loginandreg\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T16:27:09.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
